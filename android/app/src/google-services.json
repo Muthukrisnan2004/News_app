@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "582699215082",
+    "project_id": "newsglobe-7dcb6",
+    "storage_bucket": "newsglobe-7dcb6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582699215082:android:4ab373c3fa028b91530f93",
+        "android_client_info": {
+          "package_name": "com.example.news_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBn7L3Y8X8txevy3D-0syTqx0CTmjBHFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
